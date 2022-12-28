@@ -1,16 +1,13 @@
 ![image]!!![download](https://user-images.githubusercontent.com/87626156/209873646-4010ad62-7e21-4b12-997f-bf80af982cdf.png)
+
+
+
+
+
+
 Engenharia Software
 “sem tema “
 “(Sistema )”
-
-
-
-
-
-
-
-Recife –2022.2
-DEZEMBRO 2022
 
 
 
@@ -26,47 +23,7 @@ Escrito por:
 
 
 
-
-Entrega do relatório: [Data de entrega]
-Entrega
-Data
-Versão
-Porcentagem
-Primeira entrega
-A definir
-1.1
-10%
-Segunda entrega 
-A definir
-1.2
-0% 
-Revisão
-A definir
-1.3
-0%
-
-
-
-
-
-
-
-
-Final
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[!image] !!![Untitled](https://user-images.githubusercontent.com/87626156/209874304-432be01c-5d00-4663-96e4-9ce91b441a56.png)
 
 
 
