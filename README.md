@@ -112,12 +112,6 @@ Fizemos muitos levantamentos dos requisitos e constatamos que atividade estoque 
 ![image](https://user-images.githubusercontent.com/87626156/146314830-a96c779c-bf37-42c1-a30b-cea63426a59c.png)
 
 
---Modelo lógico 
-![image](https://user-images.githubusercontent.com/87626156/146313093-7a707a82-2d56-42e4-86a8-e00f72762b79.png)
-
-Em várias reunião Coordenação Saúde Bucal sugiu arquetura em construção da imagem a seguir.
-![imagem](![Captura de tela 2021-12-27 093929](https://user-images.githubusercontent.com/87626156/147472606-c725c841-f8d5-4363-96d3-bea34fc96b29.png)
-![imagem](![Captura de tela 2021-12-27 094424](https://user-images.githubusercontent.com/87626156/147473087-d6357996-dfca-4167-9863-dccfe6becc05.png)
 
 3) ​Que big idea você propõe para o projeto?
 
